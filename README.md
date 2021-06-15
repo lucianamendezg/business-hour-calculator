@@ -17,4 +17,4 @@ Please let me know if you find any bugs, or how I can make your experience using
 ### Terms of use 
 Business Hour Calculator is [MIT-licensed](https://github.com/lucianamendezg/business-hour-calculator/blob/main/LICENSE).
 
-Thank you so much for using my library!
+### Thank you so much for using my library!
